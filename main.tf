@@ -13,8 +13,8 @@ terraform {
 provider "aws" {
   #profile = "C:/Users/Juliana/.aws/credentials" # AWS Credentials Profile configured on your local desktop terminal  $HOME/.aws/credentials
   region  = "us-east-1"
-  access_key = "AKIAWMZ6LSMYDQJOX7C5"
-  secret_key = "KJ9SeJw6Yqbiwv8GJ7wW9yXtwt/g2JLWhCvZxG9T"
+  access_key = ""
+  secret_key = ""
 
 }
 
